@@ -43,4 +43,7 @@ int Utils::Random(int min, int max)
 int Add(int a, int b)
 {
 	return a + b;
+}int Add(int a, int b)
+{
+	return a + b;
 }
